@@ -11,14 +11,14 @@ The goal is to analyze data, uncover insights, and present findings in a clear a
 ---
 
 ## 📁 Repository Structure
-'''projects/
+```projects/
   ProjectName/
     report.pbix# Power BI report file
     README.md# project-specific documentation
     images/# screenshots
     data/# datasets
     publish/# links, notes
-docs/# additional documentation '''
+docs/# additional documentation```
 
 
 
