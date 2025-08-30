@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a398f9e4-d00c-43bb-8cb9-8535191f12e7" />
-" alt="Power BI Logo" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a398f9e4-d00c-43bb-8cb9-8535191f12e7" alt="Power BI Logo" width="500"/>
 </p>
+
 
 # 📊 Power BI Projects
 
