@@ -42,7 +42,7 @@ docs/# additional documentation '''
 ---
 
 ## 📌 Projects
-- [Netflix Dashboard](./projects/NetflixDashboard)  
+
 - (More projects will be added soon…)
 
 
