@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="images/powerbi-logo.png" alt="Power BI Logo" width="400"/>
+  <img src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a398f9e4-d00c-43bb-8cb9-8535191f12e7" />
+" alt="Power BI Logo" width="500"/>
 </p>
 
 # 📊 Power BI Projects
@@ -10,6 +11,15 @@ The goal is to analyze data, uncover insights, and present findings in a clear a
 ---
 
 ## 📁 Repository Structure
+'''projects/
+  ProjectName/
+    report.pbix# Power BI report file
+    README.md# project-specific documentation
+    images/# screenshots
+    data/# datasets
+    publish/# links, notes
+docs/# additional documentation '''
+
 
 
 
@@ -32,4 +42,8 @@ The goal is to analyze data, uncover insights, and present findings in a clear a
 ---
 
 ## 📌 Projects
-- More projects will be added over time. Each will be documented in its own folder.  
+- [Netflix Dashboard](./projects/NetflixDashboard)  
+- (More projects will be added soon…)
+
+
+
